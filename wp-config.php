@@ -28,9 +28,9 @@ if (file_exists(dirname(__FILE__) . '/local.php')) {
 
 } else {
 	// Live Database Settings
-	define( 'DB_NAME', 'locals' );
-	define( 'DB_USER', 'root' );
-	define( 'DB_PASSWORD', 'root' );
+	define( 'DB_NAME', 'edmons33_universitydata' );
+	define( 'DB_USER', 'edmons33_wp774' );
+	define( 'DB_PASSWORD', 'ibongmandaragit1914' );
 	define( 'DB_HOST', 'localhost' );
 }
 
